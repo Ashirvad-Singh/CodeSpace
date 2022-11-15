@@ -1,0 +1,21 @@
+{
+  "name": "codespace",
+  "version": "1.0.0",
+  "description": "code space",
+  "main": "index.js",
+  "scripts": {
+    "start":"index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashirvad-Singh/CodeSpace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashirvad-Singh/CodeSpace/issues"
+  },
+  "homepage": "https://github.com/Ashirvad-Singh/CodeSpace#readme"
+}
